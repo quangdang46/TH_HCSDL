@@ -1,0 +1,5 @@
+Bao dong cua tap dau vao la:
+(QUAYHANG)+->QUAYHANG
+Cac khoa cua tap dau vao la:
+C_D_E
+C_D_G

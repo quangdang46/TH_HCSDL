@@ -1,0 +1,8 @@
+NguoiThan,NguoiThue,1,n
+HopDongThue,NguoiThue,n,1
+QuayHang,HopDongThue,1,1
+LoaiQuayHang,QuayHang,n,1
+LoaiQuayHang,NongSan,1,n
+LoaiQuayHang,ThuySan,1,n
+QuayHang,KhuVuc,n,1
+QuayHang,NhanVien,n,n

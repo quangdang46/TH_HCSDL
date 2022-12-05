@@ -1,0 +1,9 @@
+Bao dong cua tap dau vao la:
+(A_B)+->A_B_D
+Cac khoa cua tap dau vao la:
+A_D_E_G_H
+A_E_G
+A_G_H
+A_D_E_G
+A_D_G_H
+A_E_G_H

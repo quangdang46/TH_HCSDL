@@ -1,0 +1,9 @@
+A_B->C
+D->E_G
+A_C_D->B
+C->A
+B_E->C
+C_E->A_G
+B_C->D
+C_G->B_D
+G->H
